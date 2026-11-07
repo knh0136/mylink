@@ -1,0 +1,13 @@
+/강의자료/
+**/node_modules/
+**/.next/
+**/out/
+**/test-results/
+**/playwright-report/
+**/*.tsbuildinfo
+.tools/
+.DS_Store
+Thumbs.db
+.env*
+!.env.example
+**/.vercel/
